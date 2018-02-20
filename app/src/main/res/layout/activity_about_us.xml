@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="com.sq.bit.bit1.AboutUs">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/layout">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher"
+                android:layout_gravity="top|center_horizontal" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about"
+                android:textStyle="italic"
+                android:textSize="25dp"
+                android:gravity="center"
+                android:id="@+id/tvAbout"
+                android:checked="false" />
+
+            <CheckedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Regards \n   SahilQaiser \n      Syed_Wajid \n          Sheikh_Faysal \n              Wani_Tufail"
+                android:textStyle="italic"
+                android:textSize="25sp"
+                android:gravity="start"
+                android:id="@+id/tvAbout1"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:onClick="onContactUs"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/SahilQaiser"
+                android:text="SahilQaiser"
+                android:visibility="gone"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Wajid"
+                android:text="Syed Wajid Aalam"
+                android:visibility="gone"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Faysal"
+                android:text="Sheikh Faysal Majeed"
+                android:visibility="gone"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Tufail"
+                android:text="Tufail Ahmad Wani"
+                android:visibility="gone"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

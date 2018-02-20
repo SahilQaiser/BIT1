@@ -1,0 +1,39 @@
+MANAGEMENT INFORMATION SYSTEM
+
+UNIT I:
+FRAME WORK:
+i) Importance, Concepts, Nature & Scope of MIS
+ii) Structure & Classification of MIS, lnformation Processing Functions, Decision Support Levels of Management Activities ,Organizational Functions,
+Classification, Transaction Processing System, Management lnformation System, Decision Support System(DSS), Executive Support system, Office Automation Systems(OASs), Business Expert systems(BESs), Functional information System
+
+UNIT II:
+CDECISION MAKING AND MIS:
+Decision Making, Simon's Model of Decision Making, Types of Decisions, Purpose of Decision Making, Level of Programmability, Knowledge of Outcomes, Methods of Choosing among alternatives,
+Decision theory and Decision Analysis, Utility, Decision tree, Optimization techniques, Decision Making & MIS ,
+INFORMATION:
+Definition, Types & Quality of Information: Strategic Information, Tactical Information, Operational lnformation, Economic Dimensions, Business Dimensions, Technical dimensions
+SYSTEM:
+Definition & Concept Of System, Abstract & Physical Systems, Deterministic & Probabilistic Systems, Open & Closed System, User-Machine Systems Boundary, lnterface & Black Box, System Decomposition, lntegration of Subsystem, Elements of a System
+
+UNIT III: 
+SYSTEM DEVELOPMENT APPROACHES:
+System Development Life Cycle(SDLC); Models Of System Development Life Cycle- Waterfall Model, Prototyping Model, Iterative Model, Spiral Model;
+System Analysis & lntegration, Data Flow Diagrams, Data Dictionary, Decision Tree & Structured English, Decision table, System Design.
+
+UNIT IV:
+IMPLEMENTATION AND EVALUATION OF MIS:
+Implementation process (Planning & Implementation, Acquisition of facilities and space planning, MIS Organization & procedure development, user Training, Acquisition of hardware & Software, Creation firms & database, Testing, Evaluation of MIS, System Maintenance.
+INFORMATION SYSTEM (IS) PLANNING:
+Information system planning; The Nolan stage Model; The 4-stage Model of IS Planning; Selecting a methodology; Information Resource Managment(IRM); Organisation structure and location of MIS; IS as an Enabler.
+
+
+BOOKS RECOMMENDED:
+1.Donald R. Cooper and Pamela S. Schindlerc,"Business Research Methods",Tata McGraw Hill.
+2.Roger Pressman, "Software Engineering", Tata McGraw Hill.
+3.Senn J. A., "Analysis and Design of information systems", Tata McGraw Hill.
+4.Keen, Peter G. W., "Decision Support System and Organisational Perspective", Addison-Wesley Publication.
+
+SUGGESTED READINGS:
+1.Uma Sekaran, "Research Methods for Business", John Wiley and Sons, New York 2000
+2.Brunch,John and Grudnitski, "Information System-Theory and Practice", John Wiley New York (1998)
+3.Fort Worth Dryden, "Foundation of Business Systems", David Van Over l992

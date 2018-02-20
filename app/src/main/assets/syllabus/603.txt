@@ -1,0 +1,26 @@
+VISUAL BASIC PROGRAMMING
+
+Unit 1:
+Introduction to Visual Basic: the Visual Basic program development process, the Visual Basic environment, Opening a Visual Basic project, Saving a Visual Basic project, Running a Visual Basic project.
+VB Fundamentals: Numeric constants, String constants, Variables, Data Types and Data declarations, Operators and Expressions.
+Hierarchy of operations: String Expressions, Library Functions, Relational operators and Logical expressions, Logical operators.
+
+Unit 2:
+Branching with the if-then block, branching with the if-then-else block; Selection: selection case, Looping with for-next, Looping with do-loop, Looping with while-wend; Visual basc control tools, Control tool categories, working with controls, naming forms and controls, assigning property values to forms and controls; Executing commands (even procedures and command buttons), display output data (labels and text boxes), entering input data (text boxes), Selecting multiple features (Check boxes), Selecting exclusive alternatives (option button and frames), assigning properties collectively (the with block), generating error messages (the msgbox function).
+
+Unit 3:
+Handle ng keyboard and mouse events, world ng with timer and timers, menu and dialog boxes, building drop-down menus, accessing a menu from the keyboard, menu enhancements, submenus, pop-up menus.
+Arrays: Array characteristics, array declarations, processing array elements, passing array to procedures, Dynamic arrays, array-related functions, control array, ActiveX controls and their usage in VB projects.
+
+Unit 4:
+Data Access using ADO: connecting to database using ADOs, retrieving data from data source, using basic SQL statements (statements of insertion, deletion, modification of records)
+Packaging and deploying application: using packaging and deploying wizard to create setup.
+
+RECOMMENDED BOOKS:
+"Programming in Visual Basic 6" - Ivan Bayross
+"Visual Basic 6 from the Ground Up" - Gary Cornell
+"Microsoft Visual Basic 6.0 Professional" - Michael Halverson (Microsoft Press)
+
+SUGGESTED READING:
+"Visual Basic 6 Programming Black Book" - Steven Holzner
+"Guide to Visual Basic 6.0" - Peter Norton (SAMS Publications)

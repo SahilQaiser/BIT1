@@ -1,0 +1,21 @@
+SYSTEM ANALYSIS AND DESIGN
+
+Unit I
+System Concepts and System Analysis; Introduction : System, Characteristics of a System, elements of a system, types of a system, Software development life cycle (SDLF); Requirements determination, logical design, physical design, test planning, implementation and performance evaluation. Information gathering tools; review of literature, onsite observation, interviews and questionnaires.
+
+Unit II
+Feasibility Study (Technical Feasibility, Operation Feasibility, Economic Feasibility), cost-benefit analysis group based approaches JAD, Structured walk-through the role and tasks of a system analyst, attributes of a system analyst, tools used by system analyst. Process modelling with physical and logical data flow diagrams (DFDs), data modelling with logical entity-relationship diagrams (E-R Diagrams), Design of input and control, design of output and control, file design/database design, prototyping and documentation.
+		
+Unit III
+Case Tools: Use Of Computer Aided Software Engineering Tools (CASE) in The Analysis, Design and implementation if information systems. Object oriented analysis and design through object modelling and functional modelling technique, Object modelling, dynamic modelling and functional object oriented design and object oriented programming systems for implementation.
+			
+Unit IV
+Introduction to Software Projects, planning of software projects, size and cost estimation. Projecting scheduling, process management and measurement of software quality and productivity, System testing : Introduction, test plan, nature of test data. Types of testing: Unit Testing, System Testing, Alpha Testing, Beta Testing.
+		
+		
+Books Recommended
+
+Haryszkiewez, "Introduction to System Analysis and Design"
+J.A.Senn, "Analysis and Design of Information System"
+M.A. Elias, "System Analysis and Design"
+V. Rajaraman, "Analysis and Design of Information"

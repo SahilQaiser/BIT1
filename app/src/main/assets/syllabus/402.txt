@@ -1,0 +1,23 @@
+COMPUTER ORIENTED NUMERICAL METHODS
+
+UNIT 1:
+Introduction: Requirements for solving problems by Computer,
+Pitfalls in Computing, approximation and errors, significant figures, accuracy and precession, round off and truncation erors
+
+UNIT 2:
+Iterative methods: Introduction, bisection method, 
+method of false position, Newton-Raphson method, the secant method
+
+UNIT 3:
+Algebraic Equations: Solutions of Simultaneous, Algebric equations: Introduction,
+Gauss Elimination method, Gauss Seidel method
+
+UNIT 4:
+Interpolation: Introduction, Lagranges interpolation,
+Newton's divided differences interpolations.
+Solution of Differential equation: Introduction, Euler's method, Runge Kutta second order method (Heun's method)
+
+Recommended Books
+E Balaguruswamy, "Numerical Methods", Tata McGraw Hill
+V Rajaraman, "Computer Oriented Numerical Methods", Prentice Hall of India
+Salaria, "Computer Oriented Numerical Methods"

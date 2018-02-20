@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.sq.bit.bit1.MainActivity"
+    android:background="#008080">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/appNameView"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+            android:text="BSc IT E-Guide"
+            android:gravity="center"/>
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="5dp"
+        android:scrollbarStyle="insideOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="15dp"
+            android:weightSum="5">
+            <Button android:id="@+id/bBit"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                android:onClick="onClickBit"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/syllabus"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="5dp" />
+
+            <Button android:id="@+id/bBitPaper"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:layout_weight="1"
+                android:onClick="onClickBitPaper"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/papers"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp" />
+
+            <Button android:id="@+id/bKUN"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:onClick="onClickKUN"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="@drawable/kun"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp" />
+
+            <Button android:id="@+id/bKUR"
+                android:layout_marginTop="5dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:onClick="onClickKUR"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/kur"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center_horizontal" />
+
+            <Button android:id="@+id/bPref"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:onClick="onClickPref"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/settings" />
+
+            <Button android:id="@+id/bExit"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="25dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Button"
+                android:onClick="onClickExit"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/exit1" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sq.bit.bit1.Feedback"
+    android:orientation="vertical"
+    android:background="#008080">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ur Sweet Name"
+        android:inputType="textPersonName"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" />
+
+        <EditText android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ur Email Plz"
+        android:inputType="textEmailAddress"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" />
+
+        <EditText android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:inputType="textLongMessage|textMultiLine"
+        android:hint="Enter Feedback"
+        android:editable="false"
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff" />
+
+        <Button android:id="@+id/Send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Feedback"
+        android:onClick="onClickSend" />
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

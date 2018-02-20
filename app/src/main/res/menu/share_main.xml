@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sq.bit.bit1.MainActivity">
+    <item
+        android:id="@+id/menu_item_share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="always"
+        android:icon="@drawable/share_icon"/>
+    <item
+        android:id="@+id/web_search"
+        android:orderInCategory="100"
+        android:title="Google!"
+        app:showAsAction="always"
+        android:icon="@drawable/google_icon"/>
+</menu>

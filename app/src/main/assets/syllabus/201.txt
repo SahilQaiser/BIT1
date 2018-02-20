@@ -1,0 +1,17 @@
+Data Structures through C
+
+Unit 1
+Data Structure- General, various levels of implementation and levels. Static Data Structure : Basic terminology, linear arrays and their Representation in memory, Traversing, Inserting and Deleting algorithms in Linear arrays
+Sorting and Searching Algorithms: Searching :(linear search, binary search, comparison of linear and binary search)
+Sorting (bubble sort, insertion sort, Selection sort and Quick sort).
+
+Unit 2
+Stacks:Definitions and operations (Insertion, deletion and display) ,Applications of Stack, Conversation of Operations from infix to postfix ànd Conversation of Operations from infix to prefix.
+Queues: Definitions and operations in ordinary Queue(Insertion, Deletion and Display), D-Queue. Types of Queues and their application, Implementation as a static.
+
+Unit 3
+Reliew of Pointers , Structures and pointer variables: Declaring and initializing pointers, dangling pointer, array of pointers, Difference between array names and pointers, Passing function parameters by value and by reference, Dynamic Allocation and de-allocation of memory, malloc( ), calloc( ), free( ), Dynamic Arrays , Pointer to a structure , pointer to a Structure passed as argument to a function.
+
+Unit 4
+Linked lists and their applications :Definition of linked lists and their representation in memory. Traversing and searching in linked list, Insertion and Deletion of nodes from singly linked list, reversing a linked list, circular linked lists, doubly linked lists.Applications of Linked Lists (create & Display)
+Trees: Binary Trees; Linked representation of a Binary Tree, Traversal of a Binary Tree(Pre-order, In-order, Post-order), Binary Search Trees (BST); Inserting, and searching of a node in a BST.

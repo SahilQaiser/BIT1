@@ -1,0 +1,39 @@
+CORE JAVA
+
+UNIT I: 
+JAVA EVOLUTION:
+Java History; Java features(Compiled and lnterpreted, Platform-lndependent and portable, Object-Oriented,Robust and Secure, Distributed, Simple and Familiar, Multithreaded and Interactive, High performance and Dynamic and Extensible);
+How java differs from C & C++.
+
+UNIT II:
+OVERVEIW OF JAVA LANGUAGE:
+Introduction, Simple Java Program, Class definitions, Main method, Java Tokens( Java Character Set, Keywords, ldentifiers, Literals, Operators, Separators);
+Java Statementes; implementing a Java program(Creating the program, Compiling the Program, Running the Program,
+Java's Magic-the Bytecode); Java virtual Machine; Command Line Arguments; Programming Style.
+
+DECISION MAKING AND LOOPING:
+Decision making looping with (if statement, if -elsestatement, nested if-else statements),switch statement, while statemend, do-while statement, for statements)
+Arrays( one dimensional and two dimensional arrays), strings and vectors.
+
+UNIT III:
+CLASSES OBJECTS AND METHODS:
+Introduction, defining a class, adding variables, adding methods, creating objects, accessing class members, constructors, methods overloadings, static members, nesting of methods.
+INHERITANCE:
+Extending a class( defining a subclasss, Subclass constructor, muttilevel inheritance, hierarchical inheritance).
+
+UNIT IV:
+INTERFACES:
+Introduction; Defining interfaces,extending interfaces, implementing interface.
+Packages:introduction,system packages, using system packages,using system packages,naming conventons,creating packages, accessing a package.
+MANAGING ERRORS AND EXCEPTIONS:
+Introduction; types of errors (compile-time and run-time eror), throwing exceptions, using exceptions for debugging.
+Overview of Multithreading Concepts.
+
+
+REFERENCE BOOKS:
+l. The Complete Reference JAVA 2,by Herber Stchildt, Tata McGraw Hill
+2. Programming with Java,A Primer,Balagurusamy, McGraw Hill
+
+SUGGESTED READINGS:
+1. Java:how to Program, by Deitel,pearson Education.
+2. Mastering JAVA 2,by John Zulkowski, BPB Publications.

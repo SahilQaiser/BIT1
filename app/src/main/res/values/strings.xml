@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BSc IT E-Guide</string>
+    <string name="action_aboutUs">About Us!</string>
+    <string name="about">A Teeny Tiny Meeny Miny Developing Community from IT Department @ S.P. College Srinagar</string>
+    <string name="action_exit">Exit!</string>
+
+    <string name="font_prompt">Select A Font :</string>
+
+</resources>

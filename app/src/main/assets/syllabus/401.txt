@@ -1,0 +1,26 @@
+COMPUTER ORGANIZATION ANMD ARCHITECTURE
+
+UNIT 1:
+Basic Structure of Computer, and basic operational concepts,
+registers (general purpose registers, accumulator, status register, program counter, stack pointer, word size and register size), Date movement among registers.
+
+Unit 2:
+Computer Instructions (input-output instructions,
+register referenced instructions, direct addressing mode memory referenced instructions), How an instruction is executed? Instruction formats, bus structure and addressing modes.
+
+Unit 3:
+
+ALU and Control Unit organization, simple ALU organization,
+floating point ALU, Arithmetic Procesors, Control Unit Organization: functional requirements of a Control Unit, structure of a Control Unit, micro-Programmed and hardware control unit.
+
+Unit 4:
+
+I-O Organization: peripheral devices (input-output devices),
+synchronous and asynchronous communication, I-O interface, serial and parallel points, data transfer and synchronization, programmed I-O, interrupt-initiated I-O, DMA, Interrupt (Software and Hardware).
+Main memory (ROM, RAM - Static and dynamic RAM), design of main memory (RAM 4x4), virtual memory (paging and page replacement).
+
+Recommended Books
+
+V.C. Hamacher, A.G. Vranesic and S.G. Zaky, "Computer Organization"
+J.P. Hayes, "Computer System Architecture", McGraw Hills
+Morris Mano, "Computer System Architecture", Prentice Hall Of India

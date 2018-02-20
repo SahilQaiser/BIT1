@@ -1,0 +1,30 @@
+MATHEMATICS
+
+Unit I
+
+Binomial Theorem And Permutations And Combinations
+Definitions, fundamental principles of counting, elementary study of combination, values of nPr and nCr, simple applications. Proof of Binomial Theorem for positive integral exponent using principle of induction. General and particular term related problems. Values of(102)^6, (99)^4 by means of Binomial Theorem.
+Probability
+Introduction to Probability, Definitions, definitions of probability in a discrete sample space, its simple applications, adition and multiplication theorems of probability and their simple applications, Conditional Probability, Bayes Rule.
+
+Unit II
+
+Statistics
+Concept of Arithmetic mean, frequency, cumulative frequency, median, mode,of Raw and grouped data, measure of dispersion, mean deviation from the mean, variance and standard deviation, apply formulae for mean, median, mode to solve different problems with grouped and ungrouped data. Problems related to standard deviation of continuous series.
+
+Unit III:
+
+Graph Theory I:
+Basic terminology in graph theory such as vertices, edges, loops, isolated vertex, incidence, multiple edges. Concept of Paths, sample path, circuits, walk, multigraphs, subgraphs, degree of vertex, isomorphic graphs, homeomorphic graphs, connectivity, closed path, Euler's path, complete graphs, regular graphs, bipartite graphs, Hamiltonian graphs, Eulerian graphs, Finite graph.
+
+Unit IV:
+
+Graph Theory II:
+A Finite connected is Eulerian if and only if each vertex has even degree. Concept of Trees, Rooted Trees, cut points, bridges, planar graphs, graph colorings, spanning trees, binary trees. Any planar graph is 5-colorable. A tree with n vertices has (n-1) edges.
+		
+Books Recommended
+
+NCERT, "Mathematics Textbook For XII Part I and II"
+Narsingh Deo, "Graph Theory and Its Applications", PHI
+Schaum Series, "Discrete Mathematics"
+S.C. Gupta, "Fundamentals of Statistics"

@@ -1,0 +1,14 @@
+DATA BASE MANAGMENT SYSTEM (DBMS)
+COURSE CODEBIT-2O4
+
+UNIT-I
+Introduction : Traditional file processing system , drawback of traditional file processing system ; evolution of database system , advantages & disadvantages of a DBMS.Basic concepts , database and database users , characteristics of database , the three level architecture for a DBMS , components of a DBMS, classification of DBMS users , DBMS facilities , structure of a DBMS
+
+UNIT-- II
+Data model classification- Network & Hiearchical Models, data modeling using the entity relationship approach, retational model, relational database, and regional algeba, and Tuple Calculus.
+
+UNIT-- III
+Database Decomposition , Lossless join property, Relational database design, functional dependencies,Normalization for relational database,  Normal forms (1NF, 2NF, 3NF, 4NF,BCNF,5NF).
+
+UNIT-IV
+Relational database manipulation : SQL:- A relational database language , data definition in SQL , data manipulation in SQL , views and queries in SQL , Specifying constraints and indexes in SQL (ORACLE) , Creating Triggers , Stored Procedurs, , Functions & Cursors in PL / SQL.

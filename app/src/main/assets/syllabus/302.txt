@@ -1,0 +1,22 @@
+MICROPROCESSOR 8085
+
+Unit I
+Microprocessor, Basic Concepts, What is a Microprocessor, 4-8-16-32..... Evolution of Microprocessor Microprocessor Programming (Instructions, Machine and Mnemonic Codes, Machine and Assembly Language Programming, High Level Language Programming). Digital Logic (Digital and Analog Signals, Digital Building Blocks, Signal Levels, Device Loading, Open Collector and Totem-Pole Devices) Timing Diagram Conventions.
+
+Unit II
+Data Representation: Introduction Positional Number System. The Binary Number System (Concepts: Binary to Decimal Conversions, Decimal to Binary Conversions). Representation of Integers(Positive Integers, Maximum Integer, Negative Number Representation, Minimum Integer, BCD Representation) Representation of Real N Numbers (Conversions of Real Number, Floating Point Notation, Representation of Floating Point Number, Accuracy And Range in Floating Point Representation). Binary Arithmetic (Addition and Subtraction of Binary Integers, Overflow and Underflow, Addition of Floating Point Number). Other Number System (Some Conventions) Character Representation.
+
+Unit III
+8085 Microprocessor Architecture and Programming. Introduction, Organization of the 8085 (Data and Address Busses, Addressing the I/O Devices, Registers in the 8085). Instruction set of the (Instructions, Addressing Modes, Space and Time requirements). Addressing I/O Devices, Stacks and Subroutines. Introduction, Timing and control unit (Basic concepts, the fetch operation, the execute cycle, machine cycle and state, instruction and data flow). Timings of INTEL 8085 (8085 Busses, Opcode fetch cycle, memory and the I/O read cycles, Memory and I/O Write Cycles, interrupt timings, interrupt acknowledge machine cycle, bus idle machine cycle, the HALT and the HOLD states, initiating system operation, state transition sequence. Interfacing Peripherals (I/Os) with 8085. Interfacing fundamentals : Interrupts (Vectored and non-vectored), programming interrupt controller (8259) : 8155 I/O and Timer, 8279 keyboard/display interface.
+
+Books Recommended
+
+Ramesh S. Gaonkar, "Microprocessor Architecture, Programming and Applications", WILEY
+
+Rafiq U Zaman, "Microprocessors and Microcomputer Based System Design", UBS
+
+Douglas Hall, "Microprocessor and Digital Systems"
+
+Aditya P. Mathur, "Introduction to Microprocessor"
+
+Leventhal, "Microprocessor Systems"

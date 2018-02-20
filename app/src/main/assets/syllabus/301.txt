@@ -1,0 +1,20 @@
+PROGRAMMING IN C++
+
+Unit I
+Introduction to Object Oriented Approach (OOA) and Object Oriented Programming (OOP), Concepts of Objects and Classes. Features of OOP : Inheritance, Polymorphism, Encapsulation, Abstraction, Advantages of OOP over Structured Programming
+
+Unit II
+Introduction to Object Oriented Programming (C++) with general Basic Features of operators and control structures (if(), if-else(), while(), do-while(), for() etc)
+
+Unit III
+Specifying Classes, defining member of functions and member variables, inline functions, scope resolution operator, access specifiers and ascending member functions, parameter passing, object as function argument and returning objects.
+Constructors : Parameterized, multiple constructors in class, copy constructor, destructors, friend functions, friend class, operator overloading (Unary, Binary), function overloading.
+
+Unit IV
+Virtual Base Class, abstract class, pointers to objects, this pointer, pointer to derived class, Virtual functions, pure virtual function, polymorphism : an example.
+Inheritance : Defining derived class, Inheritance types : single, multilevel, multiple and hybrid inheritance.
+
+Books Recommended
+Robert Lee, "Turbo C++"
+E Balaguruswamy, "Object Oriented Programming with C++"
+Herbert Schildt "The Complete Reference C++"

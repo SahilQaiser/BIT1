@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="com.sq.bit.bit1.Preferences"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="#2ca8ae">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.04"
+        android:id="@+id/fontSizeLayout">
+
+        <NumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/fontSize"
+            android:gravity="right"
+            android:focusable="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/fontSize"
+        android:layout_toStartOf="@+id/fontSize"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:id="@+id/tvTextFontAdviser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choose Font Size and Color For Syllabus Content:"
+            android:textStyle="bold|italic"
+            android:textSize="20sp"
+            android:typeface="serif"
+            android:enabled="true"
+            android:focusable="false" />
+        <TextView
+            android:id="@+id/tvSample"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sample data"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:layout_below="@+id/linearLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </LinearLayout>
+    </RelativeLayout>
+    <View style="@style/Divider" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:weightSum="2"
+                android:baselineAligned="false">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tvTextColor"
+                        android:text="T\ne\nx\nt"
+                        android:autoText="false"
+                        android:typeface="monospace"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:paddingRight="10dp" />
+
+                    <RadioGroup
+                        android:id="@+id/rgText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:longClickable="false">
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Black"
+                            android:id="@+id/rbtBlack"
+                            android:typeface="monospace"
+                            android:textColor="#000000"
+                            android:checked="true" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Purple"
+                            android:id="@+id/rbtPurple"
+                            android:typeface="monospace"
+                            android:textColor="#8a2be2" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Green"
+                            android:id="@+id/rbtGreen"
+                            android:typeface="monospace"
+                            android:textColor="#008000" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Blue"
+                            android:id="@+id/rbtBlue"
+                            android:typeface="monospace"
+                            android:textColor="#0000ff" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Gray"
+                            android:id="@+id/rbtGray"
+                            android:typeface="monospace"
+                            android:textColor="#999999" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Steel"
+                            android:id="@+id/rbtSteel"
+                            android:typeface="monospace"
+                            android:textColor="#C5CAE9" />
+
+
+
+                    </RadioGroup>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tvBackColor"
+                        android:text="B\na\nc\nk"
+                        android:typeface="monospace"
+                        android:paddingRight="10dp" />
+
+                    <RadioGroup
+                        android:id="@+id/rgBack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_gravity="right">
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="White"
+                            android:id="@+id/rbbWhite"
+                            android:typeface="monospace"
+                            android:textColor="#FFFFFF" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Purple"
+                            android:id="@+id/rbbPurple"
+                            android:typeface="monospace"
+                            android:textColor="#8a2be2" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Olive"
+                            android:id="@+id/rbbOlive"
+                            android:typeface="monospace"
+                            android:textColor="#d3ffce"
+                            android:checked="false" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Blue"
+                            android:id="@+id/rbbBlue"
+                            android:typeface="monospace"
+                            android:textColor="#0000ff" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Gray"
+                            android:id="@+id/rbbGray"
+                            android:typeface="monospace"
+                            android:textColor="#999999" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Indigo"
+                            android:id="@+id/rbbIndigo"
+                            android:typeface="monospace"
+                            android:textColor="#3F51B5"
+                            android:checked="true" />
+
+                    </RadioGroup>
+
+                </LinearLayout>
+            </LinearLayout>
+
+        <View style="@style/Divider"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Font Change"
+            android:id="@+id/tvFontChange"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_font_select"
+            android:padding="8dp">
+        </Spinner>
+
+    </LinearLayout>
+        <View style="@style/Divider"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp" />
+        <Switch
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desktop View (KU Links)"
+            android:id="@+id/switchKUView"
+            android:layout_gravity="right"
+            android:layout_weight="0.05"
+            android:onClick="switchKUView"
+            android:checked="false"
+            android:textStyle="bold|italic"
+            android:textSize="20sp"
+            android:typeface="serif"
+            android:focusable="false"
+            android:enabled="true"
+            android:elegantTextHeight="false"
+            android:showText="false"
+            android:splitTrack="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:padding="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="bottom|center_horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:id="@+id/bSave"
+            android:onClick="onClickSave"/>
+
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DEFAULT"
+            android:id="@+id/bReset"
+            android:onClick="onClickReset"/>
+    </LinearLayout>
+  </LinearLayout>
+</ScrollView>
+
+

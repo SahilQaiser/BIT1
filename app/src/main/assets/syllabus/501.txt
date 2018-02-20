@@ -1,0 +1,26 @@
+OPERATING SYSTEM,UNIX AND SHELL PROGRAMMING
+
+UNIT I:
+Introduction: Evolutiono of operatings systemt,types of operating systems,different views of the operating system, operating system concepts and structure.
+
+UNIT II:
+Processes:the process concept,programmer's views of processes,the operating system services for process management,scheduling algorithms performance evolution.
+Inter-process communication, the need for inter-process synchronization:mutuat exctusion and semaphore, queuing implementation of semaphore,critical region and conditional critical region, deadlock (dead lock detection,avoidance)
+
+UNIT III:
+Memory management,memory management without swapping or paging,swapping, virtual memory, page replacemeant algorithm, segmentation,fi le system, directions, file system implementatio.
+
+UNIT IV:
+Introduction to Unix operating system, features of Unix , structure of Unix , types of shells, simple Unix commands( l s, cal, cat, kill, who, pwd, mkdir, chmod, mv, grep,etc),
+Shell programming:shll scripts, executing shell scripts, shell  variables, read and echo statement,conditional branching and looping,arrays.
+
+
+Books Recommended:
+l. Peterson,J .L. Abharam Silberschatz", Operating System Concepts".Addison Wesley Publishing Company
+2. Dietal, H.M., "An Introduction to operating system". Addison Wesley Publishing Company
+3. Brian W. Kernighan Rob Pike "The Unix Programming Environment"
+4. Yashwant Kanitkar " Unix Shell Programming"
+
+Suggested Reading:
+l. Tananbum, A. S., "Modern OperatingS ystems",P HI
+2. Milenkovic, Milan, "Operating system- Concepts and Design".McGraw Hill

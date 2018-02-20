@@ -1,0 +1,36 @@
+IT AND E-COMMERCE
+
+UNIT 1:
+Computers in Business, internet, electronic mails, telnet, UseNet,
+FTP, resource sharing, WWW, Wide area Information Service, Physical requirements: Physical connection, modem, telephone line, internet browsers (Internet Explorer, Netscape Navigator).
+E-Commerce: Technology and prospects, internet commerce, architecture, internet based E-Commerce, issues, problems and prospects.
+
+UNIT 2:
+Introduction to HTML: information file creation, web server,
+web client or browser (Understanding how a browser communicates with a web server),HTML, HTML Tags (singular and paired tags), commonly used HTML commands (the structure of an HTML program, documents head, document body), titles and footers, text formatting (paragraph breaks), emphasizing material in a webpage (heading styles, drawing lines), text styles (bold, italics, underline), other text effects (centering text, images etc), spacing (indenting text).
+Lists: Types of lists (unordered list, bullets), ordered lists (Numbering), definition lists, adding graphics to HTML documents: using the border attribute, using the width and height attribute, using the align attribute, using the act attribute.
+
+UNIT 3:
+Tables, Forms etc
+Linking Documents: links (external documents references,
+internal document references), images as hyperlinks (images maps).
+Tables: introduction (header, data rows, the caption tag), using the width and border attribute, using the cell padding attribute, using the cell spacing attribute, using the BGCOLOR attribute, using the COLSPAN and ROWSPAN attributes.
+Frames: Introduction to frames, the FRAMESET tag, the FRAME tag, targeting named frames.</L>
+Forms: determing form content: information issues, usability issues, design issues, Creating Form: understanding widgets, creating a form and adding submit and reset button, including general input fields, including text areas, including select fields.
+
+UNIT 4:
+Advanced HTML: Optimizing webpages for internet explorer 5,
+directing internet explorer users to internet explorer pages, optimization for Internet Explorer 5, adding functionality, page layout, hyperlink optimization, adding a watermark to your webpage, optimizing fonts, table optimization.
+Optimizing your webpages for Netscape Navigator, the LAYER tag, inserting a webpage inside a webpage, tilling a background image behind paragraphs, clipping the contents of a LAYER tag, controlling the position of text and images on the webpages, making LAYER content visible or hidden, layout tricks, page margins in Netscape Navigator
+Formatting text into columns, including multimedia: deciding to include multimedia, using animated GIFs, adding sounds, adding videos, video file formats.
+
+Recommended Books
+S.K. Bansal, "Internet Technologies"
+G.S. Baluja, "Web Desing (Using HTML, DHTML, WAP and WML"
+Laudon, "E-Commerce: Business, Tecnology, Society", Pearson Education
+
+Suggested Reading 
+Ivan Bayross, "Web Enabled development with HTML, DHTML, JavaScript, Perl, CGI"
+"HTML Complete", Sybex USA Inc.
+Laura Lemay, "Web Publishing with HTML 4"
+Thomas A. Powell, "Web Design: The Complete Reference"

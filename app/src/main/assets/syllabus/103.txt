@@ -1,0 +1,28 @@
+PROGRAMMING IN C
+
+Unit 1:
+Introduction to C language: C character set and keywords, data types, constants, variables, declarations, expressions, statements, symbolic constants. Library functions, Basic structure of a C program.
+OPERATORS: Arithmetic operators, Unary operator, Relational and Logical operator, Comma operator. Data input and output: getch( ) function, putch( ) function, scanf ( ) function, printf ( ) function, gets( ), puts( ).
+
+Unit 2:
+Control statements: if statements, if-else statements, nested if statements, goto statement.
+Loops: Types of loops, while( ) loop, do-while( ) loop, for( ) loop, nested loop, switch case statements, break and continue statement, exit( ).
+Storage Classes in C: Automatic, Register, Static and External Storage Classes.
+
+Unit 3:
+ARRAYS: Defining an Array, Processing an Array, Multidimensional Array, Array and Strings, standard string functions.
+FUNCTIONS: Defining Functions, Accessing Functions, passing arguments to functions, specifying arguments, function Gottfried , recursion and passing Array to a function.
+POINTERS: Pointer declaration, passing pointers to a function, Pointer and one-dimensional arrays, operators and pointers, pointers and Multidimensional Array, Array of pointers.
+
+Unit 4:
+STRUCTURES AND UNIONS: Defining a structure, processing a structure, user defined data types, sorting structures, passing structures to a function and overview of union.
+FILE MANAGEMENT IN C: Introduction, Defining and opening a file, closing a file, Input/Output operations on files, Random access to file and Command Line Arguments.
+
+RECOMMENDED BOOKS:
+"Programming in ANSI C" - E. Balagurusami (Tata McGraw Hills)
+"Programming with C" - Brian Gottfried (Tata McGraw Hills)
+
+REFERENCES:
+"Let Us C" - Yashwant Kanetkar (BPB Publications)
+"The Spirit of C" - Mullish and Cooper.
+"Art and Craft of C" - R. B. Patel

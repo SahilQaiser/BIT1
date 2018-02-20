@@ -1,0 +1,17 @@
+DIGITAL ELECTRONICS
+UNIT-I
+Number System, Gates and Logic Families Binary Number System- Addition, Subtraction ,Multiplication and Division of Binary Numbers; Digital signals ,Basic Logic Operations - NOT, OR , AND, NOR, NAND, XOR, XNOR Gates; Universality of NAND and NOR gates; Positive and Negative Logic.
+Semiconductors
+Semiconductors, PN Junction diode,Zener Diode, Schotky Diode, Bipolar Junction Transistor , Schotky Transistor, Field Effect Transistor , resistance Transistor Logic (RTL) ,Diode Transistor Logic (DTL) ,Transistor Transistor Logic (TTL), Emmitter coupled Logic (ECL), HTL , Mos , CMos.
+
+Unit ll
+Combinational Logic
+Introduction to Boolean Algebra - (Minterm, Maxterm, Representation of Boolean Expressions in SOP and POS form, Conversion of SOP to POS and vice-versa); Maximization of Boolean Expressions (Karnaugh map method and Quine-McClusky Method, Don't Care Conditions);Binary Codes (Excess 3, BCD, GRAY code, ASCII code, Various other weighted and un-weighted codes), Design of Arithmetic and Logic Circuits (Adder, Subtractor, CodeConverters, Parity checker/Generator, Encoder /Multiplexer and Decoder/Demultiplexer).
+
+UNIT-lll
+Flip Flops Sequential Logic Design and Timming Circuits
+Basic Memory Cell, Flip Flop Design (S & JK, D,T); Clocked Flip Flop Triggering (edge and Level Triggering);Master Slave Flip Flop.Introduction to Sequential Logic Design , Registers , Application of Shift Registers , Ripple Or Asynchronous Counters , Synchronous Counters , Timming Circuits -- Introduction, Application of Logic Gates in Timing circuits - Free running Multivibrator , Mono Stable Multivibrator.
+
+UNIT-IV
+Semiconductor Memories
+Memory Organisation and Operation; Classification and Characterization of Memory; Sequential Memory(Dynamic Shift Registers, Dynamic MOS Registers, CMOS Shift Registers); ROM (Organization, Maskable Programmable ROM, PROM, EPROM, FAMOS-PROM, MOAS-PROM), Read and Write Memory (BipolarRAM Cell, MOS RAMs).

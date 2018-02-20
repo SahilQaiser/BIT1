@@ -1,0 +1,27 @@
+MATHEMATICS-I
+
+Unit 1:
+TRIGONOMETRIC FUNCTIONS:
+Introduction, angles, circular functions or trigonometric functions, trigonometric identities, addition and subtraction formulae with its simple applications, relation between trigonometric functions of multiple and sub-multiple of angles.
+
+Unit 2:
+COMPLEX NUMBERS:
+Definition, Geometrical representation of Argands diagram, modulus, amplitude of a complex number, properties of complex numbers, De-Moore's theorem for Rational index and its applications.
+
+Unit 3:
+QUADRATIC EQUATIONS, MATRICES AND DETERMINANTS:
+Solution of Quadratic equations, Relation between roots and Co-efficients, Nature of Roots, formation of Quadratic Equations with given roots. Linear and Quadratic inequation and Linear programming.
+Introduction, MATRICES, operations on Matrices, Determinants, Adjoints and Inverse of a matrix, simple applications.
+
+Unit 4:
+SEQUENCE AND SERIES:
+Definition with examples of Arithmetic Progression (AP), Geometric Progression (GP), Harmonic Progression (HP), Arithmetic Mean (AM), Geometric Mean (GM) and Harmonic Mean (HM).
+Sum to 'n' terms of an Arithmetic Progression and Geometric Progression. Sum to INFINITY of GP series. Applications for evaluating (summation)n, (summation)n^2, and (summation)n^3.
+
+RECOMMENDED BOOKS:
+"Mathematics TextBook for class XI Part I and II" (NCERT)
+"Mathematics TextBook for class XII Part I and II" (NCERT)
+
+SUGGESTED READINGS:
+"Complex Trigonometry" - M. L. Sad or M. R. Puri
+"A TextBook of Mathematics" - R. S. Aggarwal

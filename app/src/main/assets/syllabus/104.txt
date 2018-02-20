@@ -1,0 +1,33 @@
+FUNDAMENTALS OF IT
+
+Unit 1:
+DATA INFORMATION CONCEPTS: data, information concept, information system, types of information system, office automation system, Transaction Processing system, Management Information System, Decision Support System, need for information, Characteristics of information, quality of information, categories of information, comparative study of data, Information and Knowledge, Role of Information Technology in Modern World.
+Information Processing - Data, information, data/information Acquisition System, data processing terminology, Data Processing System, Electronic Data Processing (EDP) System.
+
+Unit 2:
+COMPUTER FUNDAMENTALS AND BASIC COMPUTER ORGANIZATION:
+Characteristics of Computers, Evolution of Computers, Classification of Computers, application of Computers. Introduction to Computer system, block diagram of a Computer, description of Input unit, Output unit, storage unit, Central Processing Unit, Arithmetic Logic Unit and Control Unit.
+PROCESSOR AND MEMORY:
+The Central Processing Unit (CPU), The Control Unit, the Arithmetic Logic Unit (ALU), Instruction set, Registers, Processor Speed, types of Processors, The Main Memory Organization, Main Memory Capacity, RAM, PROM & EPROM, EEPROM and CACHE Memory.
+SECONDARY MEMORY & NUMBER SYSTEM:
+Sequential and Direct Access Devices, Magnetic Tape, Magnetic Disks, Optical Disks, Mass Storage Devices.
+
+Unit 3:
+NUMBER SYSTEM:
+Binary, Decimal, Octal, Hexadecimal Number System, Conversion from One Number System to another, Computer Codes - BCD, EBCDIC & ASCII.
+COMPUTER HARDWARE / SOFTWARE, OVERVIEW OF DATABASE:
+Hardware, Software, Firmware, Types of Software, Application Software (MS Word, Excel, PowerPoint). Data, data fields, records, file, file Organizations, Entity, attributes, databases, Database Management System (DBMS), DBMS Applications.
+
+Unit 4:
+INTRODUCTION TO OPERATING SYSTEM AND INTERNET:
+Functions of Operating System, Evolution, Batch Processing, Multiprogramming, Multiprocessing, Time Sharing, Single User and Multi User Operating System.
+INTERNET:
+Definition (What it is?), Brief history, Basic services (Email, FTP, Telnet and Usenet), World Wide Web, Browsers, Users of the Internet, Viruses: types and Control measures.
+
+RECOMMENDED BOOKS:
+"Foundations of Information Technology" - Chanchal Mittal
+"Fundamentals of Information Technology" - S. K. Bansal
+
+REFERENCES:
+"Computer Fundamentals" - P. K. Subhas
+"MS Office XP Professional Complete" (BPB Publications)

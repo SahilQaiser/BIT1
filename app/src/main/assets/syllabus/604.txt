@@ -1,0 +1,20 @@
+SOFTWARE ENGINEERING
+
+Unit 1:
+Software process, Software product, characteristics ofgood software product, software process models, waterfall prototyping, RAD, incremental and generic spiral model, 4G techniques.
+Software requirement analysis (SRA), types of requirements and steps involved in SRA, software requirements Specifications (SRS), guidelines and prototype for good SRS.
+
+Unit 2:
+Structured Analysis and design, representation techniques and data modeling (Entity Relationship diagram), Process modeling (data flow diagram), behavioral modeling (state transition diagram).
+Software design concepts and principles, procedural and data abstraction, top-down design, call-return architecture, structural partitioning, characterization of effective modular design (functional independence, cohesion, coupling), SW architecture styles (data-centered, data flow and layered architecture).
+
+Unit 3:
+Software testing: Need for SW testing, testing principle, approaches to the design of test cases, black box and white box testing, Phasing in texting activity: Unit ,integration, value ration and system tests, concepts of verification and validation.
+
+Unit 4:
+Software project management concepts, project planning and resource estimation techniques, simple Boehm model, risk analysis and management, project scheduling and tracking, software quality assurance, SW configuration management (SCM) concepts: baseline, version id, release id, introduction to CASE tools, categories of commonly used CASE tools.
+
+RECOMMENDED BOOKS:
+"Software Engineering - A Practitioners Approach" - Roger Pressman (McGraw Hills)
+"Fundamentals of Software Engineering" - Ghezzi, Jazayeri et al (PHI)
+"Software Engineering" - Ian Sommerville (PHI)

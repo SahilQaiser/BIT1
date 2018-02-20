@@ -1,0 +1,20 @@
+DATA COMMUNTCATION
+
+UNIT-I
+Data Communication concepts: Introduction to Data communication, Data communication Model, Data communication Modes ( simplex, Half-Duplex, Full-Duplex)
+
+UNIT-II
+Data Communication Media: Guided Transmission Media-Twisted pair Cable, coaxial cable, optical Fiber cable (single mode,multimode step index fibre,multimode graded index fibre) Unguided Transmission Media( wireless)- Radio Waves, Microwaves, infrared Waves.
+
+UNIT-III:
+Characteristics of signals( Amplitude,Frequency, Period, wavelength, S/N ratio),Bandwidth& channel capacity Nyquist Law for Noiseless channel and shannon's Law for Noisy channel, Data RateV /s Baud Rate.
+Data Encoding and Modulation:Difference between modulation and encoding, Digital Data to Digital Signal, Digital Data to Analog Signal, Analog Data to digital signal,Analog data to Analog signal.
+
+UNIT-IV:
+Reliable transmission of data : Asynchronous and synchronous , Error detection: parity-based, cyclic Redundancy check (CRC) based, Error correction by retransmission , concept of Multiplexing: Frequency division multiplexing (FDM), time division multiplexing (TDM).
+
+
+Books Recommended:
+l. William stalling "Data& computer communication".
+2. Behrouz A . Forouzan "Data communication & Networking"
+3. Andrew Tanenbaumn "Computer Networks".

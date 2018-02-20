@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sq.bit.bit1.KUN"
+    android:orientation="vertical"
+    android:background="#008080">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvKUN"
+        android:textSize="20sp"
+        android:text="Kashmir University Notifications "/>
+    <ProgressBar
+        android:id="@+id/kunprogress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@android:style/Widget.Holo.Light.ProgressBar.Horizontal"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+    <android.support.v4.widget.SwipeRefreshLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/swipe_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <WebView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wvKUN"
+        android:layout_weight="1">
+    </WebView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+MATHEMATICS-II
+
+UNIT-I
+Sets & their representations,Various types of Sets,  Subsets,Power Set,Universal Set, Operations on Sets.Ordered Pairs, Cartesian Product of Sets. Relation, Domain, Co-domain & Range. Equivalence Relation.Functions, Graph of a Function. various types of functions;, Application of Sets & Functions.
+
+Unit-II
+LIMITS AND CONTINUITY:
+Definition, concept, some simple Apprications Related to
+
+Lt.       x^n-a^n ,
+x->a       x-a
+Lt.       (1+x)^1/x ,
+x->0       
+Lt.       e^x-1 ,
+x->0       x
+Lt.       log x
+x->1       x-1
+
+
+Continuity of a function at a point and over an interval with examples. Sum,difference, product and quotient of two continuous functions.
+
+UNIT-III
+DIFFERENTIATION
+Introduction, Derivative of a Function, Differentiability, Derivative of some important functions as x^n, (ax+b)^n,sinx, cosx, tanx, logx, a^x, e^ax, sin^-1 x,cos^-1 x,tan^-1 x 
+integration
+Integrals of the type: xndx, J(ax+b)"dx, Jsinaxdx, Jcosax dx,ltanax dx,le'*dx,fa.dx,Jsinxcosxdx.
+
+Unit-IV
+Boolean Algebra
+Introduction, Boolean algebra as an Algebric Structure, Principle of duality. The conditional and Bi-conditional statements. Arguments and their validity. Some simple applications to switching circuits.
